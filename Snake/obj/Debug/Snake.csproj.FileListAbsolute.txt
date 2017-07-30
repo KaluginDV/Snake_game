@@ -1,0 +1,6 @@
+C:\visual_studio_progs\02_Snake_game\Snake\bin\Debug\Snake.exe.config
+C:\visual_studio_progs\02_Snake_game\Snake\bin\Debug\Snake.exe
+C:\visual_studio_progs\02_Snake_game\Snake\bin\Debug\Snake.pdb
+C:\visual_studio_progs\02_Snake_game\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
+C:\visual_studio_progs\02_Snake_game\Snake\obj\Debug\Snake.exe
+C:\visual_studio_progs\02_Snake_game\Snake\obj\Debug\Snake.pdb
